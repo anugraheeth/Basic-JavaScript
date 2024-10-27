@@ -2,21 +2,13 @@
 
 A lightweight, animated theme switcher component that supports light, dark, and system themes with smooth transitions and animations. This component provides an intuitive user interface for switching between different color schemes while maintaining user preferences across sessions.
 
-![Theme Switcher Demo](theme-switcher-demo.gif)
-
-- 🚫 Respects user's reduced motion preferences
+![Theme Switcher Demo](/assets/Theme.png)
 
 ## Installation
 
 1. Copy the HTML, CSS, and JavaScript code into your project
 2. Include the necessary files in your HTML document
 3. Initialize the ThemeSwitcher class
-
-```html
-<script>
-    const themeSwitcher = new ThemeSwitcher();
-</script>
-```
 
 ## Usage
 
